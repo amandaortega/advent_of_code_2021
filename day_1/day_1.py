@@ -1,4 +1,3 @@
-from typing import Counter
 from numpy import genfromtxt
 
 input = list(genfromtxt("day_1/input.csv"))
